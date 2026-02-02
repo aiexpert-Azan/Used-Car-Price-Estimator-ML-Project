@@ -43,11 +43,6 @@ We compared three major algorithms to find the best fit:
 
 ---
 
-## 📂 Project Structure
-- `ML_Lab_Project_Final.ipynb`: The main Python notebook containing all code, plots, and analysis.
-- `pakwheels.csv`: The raw dataset
-- `README.md`: Project documentation.
-
 
 ## 🎓 Acknowledgments
 Submitted as a Lab Project to **Mr. Abu Huraira** at the **University of Management and Technology (UMT)**.
